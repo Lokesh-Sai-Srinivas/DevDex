@@ -23,7 +23,7 @@
 
 ## 📥 How to Install
 
-1.  **[Download the APK](PASTE_YOUR_APK_LINK_HERE)** from the Releases section.
+1.  **[Download the APK](sha256:b4209b5a7c1ae41581ad1b56f54dabcae62c35a1067d70e4f6220ba647da5ac8)** from the Releases section.
 2.  Open the file on your Android device.
 3.  If prompted, allow "Install from unknown source" (Settings > Security).
 4.  Launch **DevDex** and start learning!
