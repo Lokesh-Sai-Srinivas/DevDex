@@ -1,6 +1,6 @@
 # DevDex 🚀
 
-[![Download for Android](https://img.shields.io/badge/Download-Android_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)]([sha256:b4209b5a7c1ae41581ad1b56f54dabcae62c35a1067d70e4f6220ba647da5ac8](https://github.com/Lokesh-Sai-Srinivas/DevDex-/releases/download/v1.0.0/DevDex.apk))
+[![Download for Android](https://img.shields.io/badge/Download-Android_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Lokesh-Sai-Srinivas/DevDex-/releases/download/v1.0.0/DevDex.apk)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Built with Expo](https://img.shields.io/badge/Built_with-Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev)
 
@@ -23,7 +23,7 @@
 
 ## 📥 How to Install
 
-1.  **[Download the APK]([sha256:b4209b5a7c1ae41581ad1b56f54dabcae62c35a1067d70e4f6220ba647da5ac8](https://github.com/Lokesh-Sai-Srinivas/DevDex-/releases/download/v1.0.0/DevDex.apk))** from the Releases section.
+1.  **[Download the APK](https://github.com/Lokesh-Sai-Srinivas/DevDex-/releases/download/v1.0.0/DevDex.apk)** from the Releases section.
 2.  Open the file on your Android device.
 3.  If prompted, allow "Install from unknown source" (Settings > Security).
 4.  Launch **DevDex** and start learning!
